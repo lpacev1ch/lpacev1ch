@@ -27,6 +27,10 @@
     <img src="https://img.shields.io/badge/instagram-orange?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram Badge"/>
   </a>
 
+
+<a href="https://bento.me/lpacev1ch">
+    <img src="https://img.shields.io/badge/bento-purple?style=for-the-badge&logo=bento&logoColor=white" alt="bento Badge"/>
+  </a>
 </div>
 
 
