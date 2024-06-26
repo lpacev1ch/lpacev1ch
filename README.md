@@ -1,5 +1,7 @@
 <h1>Hey there, my name Alexey!👋</h1>
 
+<hr> 
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
@@ -21,4 +23,32 @@
   <img src="https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif?cid=ecf05e47uyru529oemv6tj1fnfy514nh8gyas5a5znsisemi&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100%"/>
 </div>
 
-<h1>About Me:</h1>
+<h1>👀About Me:</h1>
+
+<p>I am a student at the Belarusian State University, Faculty of Applied Mathematics and Computer Science. My goal is to complete an internship or take a position as a junior frontend developer. I'm really passionate about programming. While studying at the university, I simultaneously study the development of web and telegram applications, as well as develop layout skills. Since I'm really interested in everything new, I'm taking additional development courses. I believe that the ability to learn, excellent social skills and dedication will help me become part of the team and build a career in the IT field.</p>
+
+<hr>
+
+<h1>📲My social media:</h1>
+
+
+
+<hr>
+
+<h1>📚My skills:</h1>
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>
+
+<hr>
+
+<h1>📊My stats:</h1>
+
+<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=lpacev1ch&theme=dark" alt="GitHub Streak" /></a>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lpacev1ch&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
