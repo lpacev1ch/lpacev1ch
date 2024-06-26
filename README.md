@@ -28,12 +28,14 @@
   </a>
 
 
+<hr>
+
+<h1>📄My CV:</h1>
+
 <a href="https://bento.me/lpacev1ch">
     <img src="https://img.shields.io/badge/bento-purple?style=for-the-badge&logo=bento&logoColor=white" alt="bento Badge"/>
   </a>
 </div>
-
-
 
 <hr>
 
