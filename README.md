@@ -25,7 +25,7 @@
     <img src="https://img.shields.io/badge/instagram-orange?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram Badge"/>
   </a>
   
-  <a href="https://t.me/lpacev1ch">
+  <a href="https://t.me/web3haterr">
     <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 
