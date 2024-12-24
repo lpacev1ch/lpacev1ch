@@ -34,14 +34,14 @@
 
 
 <hr>
-
+<!--
 <h1>:page_facing_up:My CV:</h1>
-
+<!--
 <a href="https://bento.me/lpacev1ch">
     <img src="https://img.shields.io/badge/bento-purple?style=for-the-badge&logo=bento&logoColor=white" alt="bento Badge"/>
   </a>
 </div>
-
+-->
 <hr>
 
 <h1>:books:My skills:</h1>
