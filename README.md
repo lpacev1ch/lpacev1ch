@@ -1,8 +1,8 @@
-<h1>Hey there, my name Alexey! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+<!-- <h1>Hey there, my name Alexey! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1> -->
 
 
-<hr> 
+<!-- <hr>  -->
 
 <!--
 <div id="abMe" align="center">
@@ -10,11 +10,11 @@
 </div>
 -->
 
-<h1>:eyes:About Me:</h1>
+<!-- <h1>:eyes:About Me:</h1>
 
 <p>I am a student at the Belarusian State University, Faculty of Applied Mathematics and Computer Science. My goal is to complete an internship or take a position as a junior frontend developer. I'm really passionate about programming. While studying at the university, I simultaneously study the development of web and telegram applications, as well as develop layout skills. Since I'm really interested in everything new, I'm taking additional development courses. I believe that the ability to learn, excellent social skills and dedication will help me become part of the team and build a career in the IT field.</p>
 
-<hr>
+<hr> -->
 
 <h1>:calling:My social media:</h1>
 
@@ -22,10 +22,6 @@
   <a href="https://www.linkedin.com/in/алексей-пацевич-199574301/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-
-   <a href="https://www.instagram.com/lpacev1ch/">
-    <img src="https://img.shields.io/badge/instagram-orange?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram Badge"/>
-   </a>
 
 
 <!--
@@ -38,14 +34,14 @@
   </a>
 </div>
 -->
-<hr>
+<!-- <hr>
 
 <h1>:books:My skills:</h1>
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp; -->
   <!--<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;-->
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
