@@ -1,8 +1,8 @@
-<!-- <h1>Hey there, my name Alexey! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1> -->
+<h1>Hey there, my name Alexey! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1> 
 
 
-<!-- <hr>  -->
+<hr>  
 
 <!--
 <div id="abMe" align="center">
@@ -22,7 +22,7 @@
   <a href="https://www.linkedin.com/in/алексей-пацевич-199574301/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-
+</div>
 
 <!--
 <hr>
@@ -43,12 +43,13 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp; -->
   <!--<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;-->
+<div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-<hr>
+<!-- <hr> -->
 
-<h1>:bar_chart:My stats:</h1>
+<!-- <h1>:bar_chart:My stats:</h1> -->
 
 <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=lpacev1ch&theme=dark" alt="GitHub Streak" /></a>
 
